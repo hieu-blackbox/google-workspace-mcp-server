@@ -1,13 +1,1 @@
-#!/bin/bash
-
-# Clone the repository
-git clone https://github.com/hieu-blackbox/google-workspace-mcp-server.git
-
-# Change directory to the cloned repository
-cd google-workspace-mcp-server
-
-# Install dependencies
-npm install
-
-# Instructions for creating OAuth credentials
-echo "Please create a 'credentials.json' file in the root directory with your OAuth credentials."
+#!/bin/bash\n\n# Clone the repository\ngit clone https://github.com/hieu-blackbox/google-workspace-mcp-server.git\n\n# Change directory to the cloned repository\ncd google-workspace-mcp-server\n\n# Install dependencies\nnpm install\n\n# Build the project\nnpm run build\n\n# Instructions for creating OAuth credentials\necho \"Please create a 'credentials.json' file in the root directory with your OAuth credentials.\"
