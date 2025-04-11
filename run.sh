@@ -1,1 +1,0 @@
-#!/bin/bash\n\n# Navigate to the project directory\ncd google-workspace-mcp-server\n\n# Start the server\nnode build/index.js\n
