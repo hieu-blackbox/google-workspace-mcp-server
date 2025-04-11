@@ -1,10 +1,1 @@
-#!/bin/bash
-
-# Navigate to the project directory
-cd /path/to/google-workspace-mcp-server
-
-# Build the project
-npm run build
-
-# Start the server
-node build/index.js
+#!/bin/bash\n\n# Navigate to the project directory\ncd google-workspace-mcp-server\n\n# Start the server\nnode build/index.js\n
