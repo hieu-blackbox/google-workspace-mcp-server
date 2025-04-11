@@ -1,21 +1,12 @@
-#!/bin/bash
-
-# Step 1: Set environment variables
-export GOOGLE_API_KEY="your_google_api_key_here"
-
-# Step 2: Clone the repository
-git clone https://github.com/hieu-blackbox/google-workspace-mcp-server.git
-
-# Step 3: Change directory to the cloned repo
-cd google-workspace-mcp-server
-
-# Step 4: Install required dependencies (if using a package manager like npm)
-# Uncomment the following line if your project uses npm\n# npm install
-
-# Step 5: Run the application
-# Replace 'your_start_command' with the actual command to start the server
-
-# Example:
-# npm start
-
-echo "Application is starting..."
+IyEvYmluL2Jhc2gKCiMgU3RlcCAxOiBTZXQgZW52aXJvbm1lbnQgdmFyaWFi
+bGVzCmV4cG9ydCBHT09HTEVfQVBJX0tFWT0ieW91cl9nb29nbGVfYXBpX2tl
+eV9oZXJlIgoKIyBTdGVwIDI6IENsb25lIHRoZSByZXBvc2l0b3J5CmdpdCBj
+bG9uZSBodHRwczovL2dpdGh1Yi5jb20vaGlldS1ibGFja2JveC9nb29nbGUt
+d29ya3NwYWNlLW1jcC1zZXJ2ZXIuZ2l0CgojIFN0ZXAgMzogQ2hhbmdlIGRp
+cmVjdG9yeSB0byB0aGUgY2xvbmVkIHJlcG8KY2QgZ29vZ2xlLXdvcmtzcGFj
+ZS1tY3Atc2VydmVyCgojIFN0ZXAgNDogSW5zdGFsbCByZXF1aXJlZCBkZXBl
+bmRlbmNpZXMgKGlmIHVzaW5nIGEgcGFja2FnZSBtYW5hZ2VyIGxpa2UgbnBt
+KQpucG0gaW5zdGFsbAoKIyBTdGVwIDU6IFJ1biB0aGUgYXBwbGljYXRpb24K
+IyBSZXBsYWNlICd5b3VyX3N0YXJ0X2NvbW1hbmQnIHdpdGggdGhlIGFjdHVh
+bCBjb21tYW5kIHRvIHN0YXJ0IHRoZSBzZXJ2ZXIKCiMgRXhhbXBsZToKbnBt
+IHN0YXJ0CgpjaG8gIkFwcGxpY2F0aW9uIGlzIHN0YXJ0aW5nLi4uIgo=
